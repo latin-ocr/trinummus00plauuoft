@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./trinummus00plauuoft_0006.png"; bbox 0 0 1528 2615; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 426 1086 1042 1237">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 426 1086 1042 1237">
+     <span class='ocr_line' id='line_1_1' title="bbox 619 1086 861 1137; baseline 0.025 -16"><span class='ocrx_word' id='word_1_1' title='bbox 619 1086 861 1137; x_wconf 65' lang='lat' dir='ltr'>OEamhrmge:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 426 1152 1042 1189; baseline 0.023 -17"><span class='ocrx_word' id='word_1_2' title='bbox 426 1152 602 1175; x_wconf 70' lang='lat' dir='ltr'>PRINTED</span> <span class='ocrx_word' id='word_1_3' title='bbox 633 1156 680 1176; x_wconf 69' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_4' title='bbox 710 1158 737 1179; x_wconf 87' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_5' title='bbox 770 1159 797 1180; x_wconf 80' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_6' title='bbox 829 1161 936 1189; x_wconf 73' lang='lat' dir='ltr'>CLAY,</span> <span class='ocrx_word' id='word_1_7' title='bbox 969 1165 1042 1186; x_wconf 57' lang='lat' dir='ltr'>ELA.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 491 1205 980 1237; baseline 0.025 -12"><span class='ocrx_word' id='word_1_8' title='bbox 491 1205 530 1226; x_wconf 71' lang='lat' dir='ltr'>AT</span> <span class='ocrx_word' id='word_1_9' title='bbox 553 1207 620 1228; x_wconf 79' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_10' title='bbox 645 1209 847 1233; x_wconf 75' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_11' title='bbox 869 1214 980 1237; x_wconf 71' lang='lat' dir='ltr'>PRESS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
